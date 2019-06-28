@@ -1,0 +1,2 @@
+Rozwiązanie zawiera node.js z expressem, posiada sortowanie po stronie klienta
+i formularz obsługujący CSRF.
